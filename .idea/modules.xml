@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Forge/Forge.iml" filepath="$PROJECT_DIR$/../Forge/Forge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KekzTech.iml" filepath="$PROJECT_DIR$/.idea/modules/KekzTech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KekzTech.api.iml" filepath="$PROJECT_DIR$/.idea/modules/KekzTech.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KekzTech.main.iml" filepath="$PROJECT_DIR$/.idea/modules/KekzTech.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KekzTech.test.iml" filepath="$PROJECT_DIR$/.idea/modules/KekzTech.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/kekztech.iml" filepath="$PROJECT_DIR$/kekztech.iml" />
     </modules>
   </component>
